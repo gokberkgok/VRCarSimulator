@@ -5,9 +5,10 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
-
+Rodin/
 MemoryCaptures/
-
+Assets/XR/
+Assets/XRI/
 *.csproj
 *.unityproj
 *.sln
